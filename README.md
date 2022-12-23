@@ -7,16 +7,16 @@ Bu github repository, Git ve GitHub hesaplarınızın kurulumunda size yol göst
 ## Adımlar
 
 - [x]  README’yi görüntüleme
-- [ ]  Bir GitHub hesabı oluşturma
-- [ ]  Komut satırı arayüzünü açma
-- [ ]  Kullanıcı Adı and E-mail oluşturma
-- [ ]  Kimlik doğrulamasının yapılması
-- [ ]  Repository’nin forklanması 
-- [ ]  Repository’nin clone’lanması
-- [ ]  Repository’de değişiklik yapma
-- [ ]  Değişiklikleri Local olarak commit etmek
-- [ ]  Değişiklikleri GitHub'a Taşıma
-- [ ]  Standart İş Akışı
+- [x]  Bir GitHub hesabı oluşturma
+- [x]  Komut satırı arayüzünü açma
+- [x]  Kullanıcı Adı and E-mail oluşturma
+- [x]  Kimlik doğrulamasının yapılması
+- [x]  Repository’nin forklanması 
+- [x]  Repository’nin clone’lanması
+- [x]  Repository’de değişiklik yapma
+- [x]  Değişiklikleri Local olarak commit etmek
+- [x]  Değişiklikleri GitHub'a Taşıma
+- [x]  Standart İş Akışı
 
 
 ---
@@ -71,10 +71,10 @@ Windows
     user.email=deniz@workintech.com.tr
     ```
 ---
-    
+
 ## Kimlik Doğrulamasının Yapılması
 *Bu adımın kullanacağınız her farklı bilgisayar için bir kez tamamlanması gerekecektir.*
-  
+
 SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğrudan GitHub'dan takip etmeyi seçin.
 > [Windows Video Anlatım](https://cdn.journeyapp.com/contents/wIdI3h0bwrFR2Lj7e8bqkTa8lz8Hu5PnTHQY6uH1AblukwLP0O7VxnTnnToY6Giu_1666349118.mp4)  
 > [GitHub Adımları](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) (Uygun işletim sistemini seçtiğinizden emin olun.)
@@ -132,7 +132,7 @@ SSH kurulumu için bir video ile birlikte hareket etmeyi veya talimatları doğr
 1. Komut satırınıza şunu yazın: 
     ```
     git add .
-    ```  
+    ```
     Dikkat: Yukarıdaki `.` kasıtlıdır. Bu `.` Git'te değiştirilen tüm dosyaları eklemesi için tanımlar.
 2. 
     ```
